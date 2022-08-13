@@ -6,31 +6,31 @@
     "standard-ride": {
       "int": {
         "min": 21,
-        "max": 100
+        "max": 100000
       }
     }, 
     "short-ride": {
       "int": {
         "min": 21,
-        "max": 100
+        "max": 100000
       }
     },
      "long-ride": {
       "int": {
         "min": 21,
-        "max": 100
+        "max": 100000
       }
     },
      "open-ridekm": {
       "int": {
         "min": 21,
-        "max": 100
+        "max": 100000
       }
     },
      "open-ridemin": {
       "int": {
         "min": 21,
-        "max": 100
+        "max": 100000
       }
     },
     "Cars-allowed": {
