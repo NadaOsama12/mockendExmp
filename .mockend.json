@@ -3,37 +3,37 @@
     "Car-type": {
       "string": {}
     },
-    "standard-ride": {
+    "standardRide": {
       "int": {
         "min": 21,
         "max": 100000
       }
     }, 
-    "short-ride": {
+    "shortRide": {
       "int": {
         "min": 21,
         "max": 100000
       }
     },
-     "long-ride": {
+     "longRide": {
       "int": {
         "min": 21,
         "max": 100000
       }
     },
-     "open-ridekm": {
+     "openRidekm": {
       "int": {
         "min": 21,
         "max": 100000
       }
     },
-     "open-ridemin": {
+     "openRidemin": {
       "int": {
         "min": 21,
         "max": 100000
       }
     },
-    "Cars-allowed": {
+    "CarsAllowed": {
       "string": {}
     },
      "createdAt": {
