@@ -1,6 +1,6 @@
 {
   "Car": {
-    "Car-type": {
+    "CarType": {
       "string": {}
     },
     "standardRide": {
